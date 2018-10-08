@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-import random
+import random, os, sys
 
 def get_wallie_action():
     possible_actions = [
