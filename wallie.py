@@ -2,7 +2,6 @@
 
 import random
 
-
 def get_wallie_action():
     possible_actions = [
         'считает новых пользователей',
